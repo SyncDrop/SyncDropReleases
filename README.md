@@ -8,8 +8,9 @@ SyncDrop is a 2D rhythm bullet hell where you can drop any audio file into the g
 ## How To Run
 1. Download the binary for Windows or Linux on the [releases](https://github.com/SyncDrop/SyncDropReleases/releases/latest) page
 2. Create a folder in `C:\Users\user\AppData\Roaming\SyncDrop\tracks` or `~/.local/share/SyncDrop/tracks`
-3. Place `.mp3` or `.ogg` files in the tracks folder
-4. Run the game and play
+3. On linux run `chmod a+x ~/Downloads/SyncDrop.x86_64`
+4. Place `.mp3` or `.ogg` files in the tracks folder
+5. Run the game and play
 
 ## Screenshots
 ![Main Menu](https://github.com/SyncDrop/SyncDropReleases/blob/main/assets/SyncDropTitleScreenshot.png?raw=true)
